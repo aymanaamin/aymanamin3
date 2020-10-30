@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aymanamin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aymanamin.rbind.io
+  * I am aymanamin (https://keybase.io/aymanamin) on keybase.
+  * I have a public key with fingerprint A0F9 183A A71D 64BC 3339  4146 C0FA 52C1 167B E3EB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ca7abad95946b5443c5e8e2cac644e821279aec9871e7dc909eaffa894e4115d0a",
+      "fingerprint": "a0f9183aa71d64bc33394146c0fa52c1167be3eb",
+      "host": "keybase.io",
+      "key_id": "c0fa52c1167be3eb",
+      "kid": "0101ca7abad95946b5443c5e8e2cac644e821279aec9871e7dc909eaffa894e4115d0a",
+      "uid": "51d0be037ddca8121a878ae2881efe19",
+      "username": "aymanamin"
+    },
+    "service": {
+      "hostname": "aymanamin.rbind.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1549413973,
+  "expire_in": 157680000,
+  "prev": "74ded0ad486838928087e87ec94b37b064a74ef9044dd716aaf26708df6d9e1d",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJfSBRBHL4zUxSiPxYmlMkadIXYzu7czuw9VAT2DwoVBRFhnd2ZPRd1
+99pbr0wkCIxKH7oIKsgyrEgh0yy46qXEeighPDKiwihKKvpjL0V/adbqJXpsGJiZ
+33zfN9/3Y0bnzArkBhtT+dea6mOvgndunGgJ1NWWVrcJukNbhUib0MhmFtZEWdzT
+Gi0qRAQRiMAgiOiEqmEVKnoYQtkIM8wkgxgKhAxLQEIqYYaKEWCIGqqoMmKaBKuQ
+QQDCVCRCiWBadpS5MdeyPS5LRFMFWCYEAapA3ZBlWYUAKoZokrBkAKAgnclM58QG
+J+4zuDmdxFmp5fAaP2gz9v6B/8++W2bkwoCKOhNlRKlBMJAAwQgTJmEMmMmA6gPj
+zLVJM/PTtTYTvrVsob1E4OWEZTC/s36UvyGlrm7Z9FesmOt4juE08fsGz4vFIz7f
+a435hB1M135LaT6Dt5MzEsyNW44tRABHGp7la4Mw5L2UVSSXCGxnzHKZZvmIMFKw
+yIf/DktwSQQp4yEpxAqWsSphESPGp6FCXUa6qECCIDNVEUJKEVAIMSUFiZiaClUZ
+oIIfbrvtCBHIbZIol4xbUZt4LS4T2keu12UGgrmBrNkZ/jcL5ObM+/P5RgLZ3+e9
+v9OlTb7CL2VcVGVNjryzD7Hisoq5qzrwlpxeNP9sV3f5jv4PN/tr+vvWjS+uWlGW
+rllbcHr/283nj7788vVY+oCxZUH1/de1Nctyh76peatDgpY8kjERSGRuvPhJfH57
+7VjKyVpf2G56BaNX8orOjBfGB/cVNaG7E4vT5yY+FiZXW3OrBh8Hj/e0paKdl0Id
+Q+nLSze9fVOZtSdk9k4lew4mtm09uSD//diB9cngyroj33bF+jKyYeeTztBQxWCz
+1/Lw8O1HL66W39M7F+5O9JQtubCmMjT8rPXWQLJ8ukrWCrr2pk6Y5PXU8oHPfd2h
+6afFP6aHO0bzTj04tqh+w0+5qkNJ
+=PF0H
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aymanamin
+
+==================================================================
