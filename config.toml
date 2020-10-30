@@ -50,7 +50,7 @@ enableGitInfo = false
 [params]
   name = "Ayman A. Amin"
   description = "Personal website of Ayman A. Amin"
-  role = "Assistant Professor of Statistics"
+  role = "Associate Professor of Statistics"
   organization = "Faculty of Commerce, Menoufia University, Egypt."
   organization_url = "http://www.menofia.edu.eg/Home/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
