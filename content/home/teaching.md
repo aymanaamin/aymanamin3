@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-I teach the following courses for undergraduate students:
+I teach the following [courses](/courses/) for undergraduate students:
 
 - Applied Mathematics.
 - Principles of Statistics. 

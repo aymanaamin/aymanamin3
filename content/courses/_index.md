@@ -8,8 +8,14 @@ summary = ""  # Add a page description.
 
 I teach the following courses for undergraduate students:
 
-- Applied Mathematics.
-- Pure Mathematics.
+- Applied Mathematics: 
+
+	* [English Section](/courses/appliedmath-es/)
+
+- Pure Mathematics: 
+	* [English Section](/courses/puremath-es/) 
+	* [Arabic Section](/courses/puremath-as/) 
+	
 - Principles of Statistics. 
 - Applied Statistics. 
 - Quantitative Analysis.
