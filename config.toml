@@ -347,8 +347,8 @@ enableGitInfo = false
   weight = 5
 
 [[menu.main]]
-  name = "Books"
-  url = "/books/"
+  name = "Courses"
+  url = "/courses/"
   weight = 6
   
   
