@@ -1,22 +1,17 @@
----
-date: "2018-09-09T00:00:00Z"
-draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: الرياضيات البحتة
-menu:
-  example:
-    name: الرياضيات البحتة
-    weight: 5
-summary: .الرياضيات البحتة مقرر دراسي لطلاب الفرقة الأولي - شعبة عربي بكلية التجارة - جامعة المنوفية
-title: 
-toc: false
-type: docs
-weight: 5
----
++++
+title = "الرياضيات البحتة"  # Add a page title.
+date = 2017-01-01T00:00:00  # Add today's date.
+widgets = false  # Page type is a Widget Page.
+summary = ""  # Add a page description.
++++
 
 <h1 align="right">
 الرياضيات البحتة
 </h1>
+
+<p align="right">
+.الرياضيات البحتة مقرر دراسي لطلاب الفرقة الأولي - شعبة عربي بكلية التجارة - جامعة المنوفية
+</p>
 
 <h2 align="right">
 المحاضرة الاولي: الاسس والجذور

@@ -1,18 +1,9 @@
----
-date: "2018-09-09T00:00:00Z"
-draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: Applied Mathematics
-menu:
-  example:
-    name: Applied Mathematics
-    weight: 1
-summary: Applied Mathematics course is for the first-year students in the faculty of commerce - Menoufia University.
-title: Applied Mathematics
-toc: false
-type: docs
-weight: 1
----
++++
+title = "Applied Mathematics"  # Add a page title.
+date = 2017-01-01T00:00:00  # Add today's date.
+widgets = false  # Page type is a Widget Page.
+summary = ""  # Add a page description.
++++
 
 ## Overview
 Applied Mathematics course is for the first-year students in the faculty of commerce - Menoufia University, and the main goal is to introduce the students to probability, matrix algebra, solving linear system of equations, and some real commercial applications.
