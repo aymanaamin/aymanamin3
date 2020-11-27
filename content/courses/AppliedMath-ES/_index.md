@@ -11,6 +11,13 @@ Applied Mathematics course is for the first-year students in the faculty of comm
 ### First Topic: Probability
 The first topic is probability, which includes def-inition of statistical experiment, sample space, events, probability of events, and finally rules of the probabil-ity. Based on that, we introduce the contingency tables as applications for probability. 
 
+**Materials:**
+
+- <a href = "https://drive.google.com/file/d/1VjJ0flhW46fgew2kIU9Xx-gYZxaO6VGI/view?usp=sharing"> Lectures Slides  </a>
+
+- <a href = "https://drive.google.com/file/d/1X5Jt7724d02SReC0fATWRbzODxkinyih/view?usp=sharing"> Lectures Notes  </a>
+
+
 **Main Lectures Videos:**
 
 - <a href = "https://youtu.be/46OGa5RGneg"> First Video  </a>
